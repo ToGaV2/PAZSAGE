@@ -1,0 +1,931 @@
+
+                                                                                  Journal of Environmental Management 320 (2022) 115791
+
+
+                                                                                              Contents lists available at ScienceDirect
+
+
+                                                                     Journal of Environmental Management
+
+
+                                                                               journal homepage: www.elsevier.com/locate/jenvman
+
+
+Research article
+
+Inﬂuence of grazing and solar panel installation on tenebrionid beetles
+
+(Coleoptera Tenebrionidae) of a central Asian steppe
+
+                                       a,b,*                              b,1                                       b                                       b                                  b
+Noelline Tsafack                                , Wei Fang                      , Xingyu Wang                         , Yingzhong Xie                         , Xinpu Wang                       ,
+                                        c
+Simone Fattorini
+
+a
+  cE3c- Centre for Ecology, Evolution and Environmental Changes, Azorean Biodiversity Group, CHANGE – Global Change and Sustainability Institute, Faculty of
+Agricultural Sciences and Environment, University of the Azores, Rua Capita˜o Joa˜o dA´vila, Pico da Urze, 9700-042, Angra do Heroísmo, Portugal
+b
+  School of Agriculture, Ningxia University, 489 Helanshan West Road, 750021, Yinchuan, Ningxia, China
+c
+  Department of Life, Health and Environmental Sciences, University of L’Aquila, Via Vetoio, Coppito, 67100, L’Aquila, Italy
+
+
+A R T I C L E  I N F O                                                           A B S T R A C T
+
+Keywords:                                                                        Grazing may represent a major threat to biodiversity in arid grasslands. The increasing use of grasslands for solar
+Tenebrionidae
+                                                                                 parks may represent a new important threat. No study has investigated the effects of solar parks on soil insects.
+Diversity
+                                                                                 Tenebrionids are a major component of the arthropod fauna of grasslands of central Asia. These ecosystems are
+Desert steppe
+                                                                                 threatened by grazing and increasing land use for solar parks. Aim of this work was to investigate the effects of
+Arid environment
+                                                                                 grazing and solar panels on tenebrionids in arid grasslands (desert steppe) in China by comparing their com­
+Grazing
+                                                                                 munity structure in ungrazed, heavily grazed, and solar park sites. Beetles were sampled by pitfall traps, and sites
+Solar panels
+                                                                                 were compared for abundance and diversity (Hill numbers). All sites were characterized by simple, strongly
+                                                                                 dominated tenebrionid communities. Species proportions varied among sites. Grazing negatively inﬂuenced
+                                                                                 overall abundance, but did not alter species proportions; by contrast, solar panels had no effect on the average
+                                                                                 abundance, but reduced the proportion of the most abundant species. Compared with the other two sites, the
+                                                                                 solar park was characterized by a higher plant biomass and lower temperatures. A major availability of resources
+                                                                                 and less harsh conditions in the solar park might have a role in reducing the dominance of the most abundant
+                                                                                 species, allowing other species to attain higher abundances. This led to a more balanced community structure,
+                                                                                 with higher values of diversity. Although neither grazing nor solar panel installation modiﬁed radically tene­
+                                                                                 brionid species-abundance distribution or diversity, grazing and solar panel installation had different effects in
+                                                                                 species abundances and their impact might amplify the effect of other disturbance factors such as the ongoing
+                                                                                 climate change.
+
+
+1. Introduction                                                                                                                      degradation, with detrimental effects on biodiversity, especially in areas
+                                                                                                                                     characterized by low precipitation regimes (Dennis et al., 1998; Fuh­
+     Grasslands account for about 8% of Earth land (Wesche and Treiber,                                                              lendorf et al. 2006; Zhu et al., 2017, 2020). As regards insect commu­
+2012) and therefore constitute one of the most widespread biomes                                                                     nities, livestock not only reduce resources available for insects, but also
+worldwide. Grasslands have long been used for grazing activities, which                                                              alter soil characteristics by trampling, with obvious negative effects on
+have      profoundly            shaped        their      landscape          (Fuhlendorf et               al.,    2006).              soil dwelling species (Weiss et al., 2013; Ruan et al., 2021). Aridity and
+Grazing may represent a serious threat to grassland ecosystems, since it                                                             low productivity may exacerbate these effects in insect communities of
+causes alterations in water balance and soil erosion, compaction and                                                                 arid grassland (steppe) ecosystems.
+
+
+  * Corresponding author. cE3c- Centre for Ecology, Evolution and Environmental Changes, Azorean Biodiversity Group, CHANGE – Global Change and Sustain­
+ability Institute, Faculty of Agricultural Sciences and Environment, University of the Azores, Rua Capit˜ao Joa˜o dA´vila, Pico da Urze, 9700-042, Angra do Heroísmo,
+Portugal.
+     E-mail addresses: noellinetsafack@gmail.com (N. Tsafack), F15729513368@163.com (W. Fang), 996293315@qq.com (X. Wang), yzh.xie@icloud.com (Y. Xie),
+wangxinpu@nxu.edu.cn (X. Wang), simone.fattorini@univaq.it (S. Fattorini).
+  1
+     Currently at Key Laboratory of Plant Protection Resources and Pest Management of the Ministry of Education, Entomological Museum, Northwest A&F Uni­
+versity, 712100 Yangling, China.
+
+https://doi.org/10.1016/j.jenvman.2022.115791
+Received 18 May 2022; Received in revised form 15 July 2022; Accepted 17 July 2022
+Available online 3 August 2022
+0301-4797/© 2022 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-
+nc-nd/4.0/).
+
+N. Tsafack et al.                                                                                                                                                                         J ou rn a l   o f   E nv i r o n me n t al Ma n a g e m e n t 320 (2022) 115791
+
+       Recently, a new form of threat to grassland ecosystems is emerging:                                                                                                                        tenebrionids by lowering temperatures and increasing humidity.
+the increasing use of grassland areas for installation of solar panels,                                                                                                                           Finally, being more humid and with more roots, soil in the solar
+especially in steppe ecosystems, which are poorly suitable for other land                                                                                                                         panel area should be more penetrable, and hence more favorable
+uses like agriculture. The consequences on insect biodiversity seem to be                                                                                                                         to tenebrionid larvae. Thus, we expect that both overall abun­
+highly variable: while the new environmental conditions established in                                                                                                                            dance (H2.1) and diversity (H2.2) of tenebrionids will be higher
+the solar plants might even be beneﬁcial to pollinators (Dolezal et al.,                                                                                                                          than in the ungrazed and grazed sites. Also, we expect changes in
+2021; Graham et al., 2021), solar plants represent ecological traps for                                                                                                                           species            proportions                    (H2.3),             as      some           species            would             be       more
+aquatic insects attracted by polarized light (Horva´th et al., 2010). To our                                                                                                                      advantaged than others by these new conditions. Finally, we
+knowledge, however, no study has investigated the effects of solar                                                                                                                                expect changes in the species-abundance distribution, with a
+power plants on soil insects, which are an obviously important compo­                                                                                                                             reduction of dominance of the most abundant species, and hence
+nent of grassland biotas, especially in arid steppe ecosystems.                                                                                                                                   a higher evenness compared to the ungrazed site (H2.4).
+       In this study, we investigated the effects of grazing and solar parks in
+a central Asian arid grassland (Ningxia Province, China) on tenebrionid                                                                                                           2. Materials and methods
+beetles (Coleoptera, Tenebrionidae).
+       Tenebrionids are a diverse family of beetles, including more than                                                                                                          2.1. Study area
+30,000 described species worldwide (Bouchard et al., 2021). Tenebri­
+onids exploit the most disparate environments and are one of the most                                                                                                                     The present study was carried out in the Yanchi county (Ningxia Hui
+prominent arthropod groups in arid environments, including Mediter­                                                                                                               Autonomous Region), near Gaoshawo and Sidunzi villages (about 1400
+ranean coastal areas, deserts and steppes (De Los Santos et al., 2000;                                                                                                            m a.s.l.) (Fig. 1). This area is occupied by an arid steppe ecosystem
+Dajoz, 2002; Fattorini, 2008; Cheng et al., 2022).                                                                                                                                known as “desert steppe” (Sun, 2005), characterized by a cold semi-arid
+       In      central             Asia,         the        natural             landscape                 is     largely            dominated                   by                continental monsoonal climate. Monthly average temperatures vary
+                                                                                                                                                                                                                 ◦                                                 ◦                                                                            ◦
+steppes, which provide many essential ecosystem services to the human                                                                                                             between −                 8      C in January to 22                                C in July (annual average: 8.3                                               C),
+population (Lü et al., 2011) and may constitute the last barrier before                                                                                                           whereas monthly precipitation ranges from 2 mm in December to 78 mm
+desert (Kang et al., 2007; Ren et al., 2008). Many studies investigated                                                                                                           in August (annual average: 287 mm) (Kang et al., 2007; Tsafack et al.,
+tenebrionid ecology in these environments (Pfeiffer and Bayannassan,                                                                                                              2019). Vegetation is dominated by Stipa spp., Agropyron spp. and Allium
+2012; Liu et al., 2012; Liu et al., 2015; Li et al., 2016; Khurelpurev and                                                                                                        polyrhizum Turcz. ex Regel (Sun, 2005; Lü et al., 2011; Tsafack et al.,
+Pfeiffer, 2017; Niu et al., 2019, 2020). The inﬂuence of human-induced                                                                                                            2019).
+transformations of steppe ecosystems on their communities are, how­                                                                                                                       The study area is characterized by patches still subject to intensive
+ever, largely unknown.                                                                                                                                                            sheep grazing (Nan et al., 2018), areas protected from grazing, and large
+       Although grazing in the Ningxia province is legally prohibited since                                                                                                       areas occupied by photovoltaic panel parks.
+2003 (Li et al., 2013; Zhou et al., 2018), there are still some farmers that
+bring their sheep ﬂock for grazing. Along with this form of illegal                                                                                                               2.2. Sampling design and insect identiﬁcation
+grazing, the steppes of Ningxia province are experiencing an increasing
+diffusion of large solar power plants. Thus, this area offers the intriguing                                                                                                              The study was conducted in a photovoltaic power station (Ningxia
+                                                                                                                                                                                                                                              ◦       ′              ′′                     ◦       ′              ′′
+opportunity of comparing the effects of grazing and solar park in­                                                                                                                Gaoshawo solar park: 37                                       5824.35                  N - 107              0141.99                  E) and in two
+                                                                                                                                                                                                                                                                                                                           ◦       ′             ′′
+stallations on the tenebrionids of arid grasslands. To this end, we                                                                                                               grassland sites representative of undisturbed (ungrazed: 37                                                                                4551.52                 N
+                                                                                                                                                                                              ◦       ′              ′′                                                            ◦       ′              ′′                    ◦       ′             ′′
+compared the tenebrionid community of ungrazed, grazed and solar                                                                                                                  - 107         1650.22                  E) and highly grazed (37                                    4459.08                  N - 107             1752.76
+park areas.                                                                                                                                                                       E)       grasslands.                  The         Ningxia               Gaoshawo                    solar          park          was          opened              in
+                                                                                                                                                                                                                                                                                                               2
+       Speciﬁcally, we tested the following hypotheses:                                                                                                                           September 2016 and occupies an area of about 20 km                                                                              . In each site, we
+                                                                                                                                                                                  took ﬁve sampling points at least 200 m apart, and in each sampling
+      (1) Grazing should reduce abundance and diversity of tenebrionids                                                                                                           point we placed four pitfall traps separated by at least 100 m from each
+               because               of      alterations                 in     vegetation                  and         soil       characteristics.                               other, for a total of 20 traps per site. Pitfall traps were made of plastic
+               Because of plant consumption by livestock, vegetation in grazed                                                                                                    cups (diameter: 7.15 cm, depth: nine cm) dug into the ground and ﬁlled
+               areas is expected to have a lower biomass, which should turn into                                                                                                  with 60 ml of a solution of vinegar, sugar, 70% alcohol and water (in the
+               less resources available for tenebrionids. Since the larvae of                                                                                                     following proportion: 2:1:1:20). Pitfall traps were put down once a
+               steppe tenebrionids live into the soil, they are expected to be                                                                                                    month in mid-month, from April to August 2019, and collected ﬁve days
+               negatively affected by compaction induced by grazing. Also, te­                                                                                                    later. In total, we obtained 300 pitfall trap samples (60 traps × 5 sam­
+               nebrionids can be negatively affected by increased temperatures                                                                                                    pling dates: 100 samples per site). The location of the traps remained
+               and reduced humidity determined by reduction in plant height/                                                                                                      constant over the entire sampling period and no trap was damaged or
+               coverage due to grazing, since intolerable temperatures and lack                                                                                                   lost during the study. Trap content was sorted in the laboratory and
+               of water are important limiting factors for tenebrionids of arid                                                                                                   tenebrionids identiﬁed to species level using Guodong and Youzhi
+               environments (Dajoz, 2002; Fattorini, 2008). Thus, we expect                                                                                                       (1999), specialized literature and museum voucher specimens with the
+               that both overall abundance (H1.1) and diversity (H1.2) of te­                                                                                                     assistance of expert taxonomists (see Acknowledgments). All material is
+               nebrionids in the grazed site will be decreased compared to the                                                                                                    preserved in the insect collections of the School of Agriculture of Ningxia
+               ungrazed site as a result of the negative inﬂuence of grazing. Also,                                                                                               University.
+               we expect changes in species proportions (H1.3), as some species                                                                                                           For         an       environmental                         characterization                          of      the        study            sites,         we
+                                                                                                                                                                                                                                                                       2
+               would be more affected than others. Finally, we expect changes in                                                                                                  collected the following data in a 1 m                                                    quadrat frame: plant dry biomass
+                                                                                                                                                                                              2
+               the species-abundance distribution, with a reduction in species                                                                                                    (g/m          ), plant height (average height of plants in the quadrat frame),
+               evenness in the grazed site compared to the ungrazed site because                                                                                                  plant cover (proportion of soil covered by plants), soil temperature
+               of increased dominance of the most resistant species (H1.4).                                                                                                       (using a portable multiparametric probe TRS-II, Zhejiang Tuopu In­
+                                                                                                                                                                                                                                                                                                                             ◦
+      (2) Solar panel installation should have a positive impact on the                                                                                                           strument Co. Ltd., Hangzhou City, China; accuracy of ±0.5                                                                                     C) and soil
+               tenebrionid community for various reasons. First, because of                                                                                                       bulk density (as described in Tsafack et al., 2019) (Table S1, Fig. S1).
+               shading provided by solar panels, we expect a higher vegetation
+               biomass and hence more resources for tenebrionids, not only in                                                                                                     2.3. Data analysis
+               comparison with the grazed site, but also in comparison with the
+               ungrazed                   one.           Second,                 shading                might              be         beneﬁcial                   to                      Differences among sites in plant biomass, plant height, plant cover,
+
+                                                                                                                                                                           2
+
+N. Tsafack et al.                                                                                                                                                                         J ou rn a l   o f   E nv i r o n me n t al Ma n a g e m e n t 320 (2022) 115791
+                                                                                                                                                                                           Fig. 1. Study area and sampling sites selected to
+                                                                                                                                                                                           investigate          the     effects      of   grazing        and      solar      panel
+                                                                                                                                                                                           installation on tenebrionid beetles in a central Asian
+                                                                                                                                                                                           steppe. Panel (a) indicates the location of the Ningxia
+                                                                                                                                                                                           Province within China. Panel (b) shows the position
+                                                                                                                                                                                           of the sampling sites within the Ningxia Province
+                                                                                                                                                                                           (with administrative subdivisions). Panel (c) shows
+                                                                                                                                                                                           the landscape of the undisturbed (ungrazed) site used
+                                                                                                                                                                                           as a reference. Panel (d) shows the heavily grazed
+                                                                                                                                                                                           steppe. Panel (e) shows the investigated solar park.
+                                                                                                                                                                                           Colours of dots in panel (b) indicate the ungrazed site
+                                                                                                                                                                                           (blue),       the     grazed        site    (red)      and      the     solar      park
+                                                                                                                                                                                           (green). Satellite images of panels (a) and (b) from
+                                                                                                                                                                                           Google Earth. (For interpretation of the references to
+                                                                                                                                                                                           colour in this ﬁgure legend, the reader is referred to
+                                                                                                                                                                                           the Web version of this article.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+soil temperature and soil bulk density were tested using linear mixed-                                                                         the rank-abundance plot, if the abundances are logarithmically trans­
+effects models with site as a ﬁxed effect and sampling point as a                                                                              formed and the species are ranked from the most to the least abundance,
+random effect, using the lme function of the nlme package in R 4.0.3 (R                                                                        a geometric series exactly follows a strength line, which can be ﬁtted
+Core Team, 2021) according to the model: site characteristics ~ site,                                                                          using an Ordinary Least Squares regression (Fattorini, 2005). Higher
+random = ~1|sampling point. Linear mixed-effects models were fol­                                                                              slopes indicate more unbalanced communities, with slopes decreasing at
+                                                                                                                                                                                                                                                                           2
+lowed by Analysis of Variance (ANOVA, with the anova function) and                                                                             increasing evenness. We used the coefﬁcient of determination r                                                                 as a
+Tukey tests using the R package multcomp. For plant cover, which is                                                                            measure              of      goodness-of-ﬁt                  of       the       regressions              modelling               the
+expressed as proportions, we used the logit transformation as suggested                                                                        rank-abundance plots and the Analysis of Covariance (ANCOVA, with
+by Warton and Hui (2011).                                                                                                                      the R function aov) to test for homogeneity of their slopes.
+      We modelled tenebrionid species abundance distribution patterns at                                                                              We investigated species similarity among sites and level of nested­
+the three sites using the geometric series model (Fattorini, 2005) as te­                                                                      ness, i.e. the degree to which tenebrionid assemblages of sites with fewer
+nebrionids of arid ecosystems conform to this model (Fattorini and                                                                             species are subsets of successively larger assemblages. Species similarity
+Carpaneto, 2001; Fattorini, 2008; Fattorini et al., 2012, 2016, 2017; Niu                                                                      between sites was evaluated by using the Dice-Sørensen coefﬁcient of
+et al., 2019, 2020). The geometric series expresses the so-called “niche                                                                       similarity, which ranges from 0 (no shared species between two sites) to
+pre-emption”               hypothesis, in which the sizes of niche hypervolumes                                                                1 (the two sites have the same species), putting more weight on joint
+(measured as species abundances) are determined by certain species that                                                                        occurrences than on mismatches. Nestedness was tested using the soft­
+pre-empt part of the niche space, leaving the remaining specie to occupy                                                                       ware NeD (Strona et al., 2014) with spectral radius as a metric (Sta­
+the rest. Thus, the niche hypervolume is sequentially pre-empted by the                                                                        niczenko et al., 2013) and the proportional-proportional algorithm
+most abundant to the least abundant species. The ﬁrst, most dominant                                                                           (which is preferred when the scale of analysis is small; Ulrich and
+species in the sequence occupies a fraction k of the resource hyper­                                                                           Gotelli, 2012) to generate 100 random matrices.
+volume, the second species a fraction k of hypervolume not occupied by                                                                                To determine if there is an association between species and habitat (i.
+                                                                                                                                                                                                                                                                   2
+the ﬁrst, and so on (Giller, 1984; Fattorini, 2005; McGill et al., 2007). In                                                                   e., if species abundances varied among sites) we applied a χ                                                           test to a
+
+                                                                                                                                          3
+
+N. Tsafack et al.                                                                                                                                                                         J ou rn a l   o f   E nv i r o n me n t al Ma n a g e m e n t 320 (2022) 115791
+
+
+species × site contingency table.                                                                                                              Table 1
+
+      We compared sites for differences in tenebrionid diversity using Hill                                                                    ANOVA tables of mixed effect models with plant biomass, plant height, plant
+                                           q
+                                                                                                                                               cover, soil temperature and soil bulk density as dependent variables in three
+numbers. Hill numbers                        D are a mathematically uniﬁed family of indices
+                                                                                                                                               biotopes in a central Asian steppe: an ungrazed (undisturbed) site, a heavily
+which are all expressed in the same units (i.e., effective number of
+                                                                                                                                               grazed site, and a solar park. Plant cover was logit-transformed. According to
+species), being therefore comparable between each other (Schalk, 1987;
+                                                                                                                                               Tukey tests, average plant biomass in solar park was signiﬁcantly higher than in
+Liu et al., 2015). We compared diversity of the three sites for the
+                                                                                                                                               the ungrazed (P < 0.0001) and grazed (P < 0.0001) sites, whereas temperatures
+following three orders of taxonomic diversity: q = 0 (which returns
+                                                                                                                                               differed signiﬁcantly in the order grazed > ungrazed > solar park (difference
+species richness), q = 1 (which produces the exponential of Shannon
+                                                                                                                                               between grazed and ungrazed P = 0.033; difference between ungrazed and solar
+entropy and expresses the effective number of frequent species in the
+                                                                                                                                               park P < 0.001; difference between grazed and solar park P < 0.001). Higher
+assemblage), and q = 2 (which corresponds to the inverse of the Simpson
+                                                                                                                                               plant height in solar park than in grazed site was marginally signiﬁcant (P =
+index of concentration and hence expresses the effective number of                                                                             0.064). Lower soil bulk density in the solar park than in the grazed site was
+
+highly frequent species in the assemblage) (Chao et al., 2014, 2020). In                                                                       marginally signiﬁcant (P = 0.060).
+
+the following, we use the expression “Shannon diversity” to indicate this
+                                                                                                                                                                                numDEF                       denDF                     F-value                       P
+exponential version of the index. Since diversity estimates are inﬂu­
+                                                                                                                                                   Plant biomass
+enced by the number of sampled individuals, in addition to the observed
+                                                                                                                                                   Intercept                    1                            45                        105.830                       <0.0001
+values we calculated for each sample asymptotic estimates using the                                                                                Biotope                      2                            12                        26.943                        <0.0001
+
+functions ChaoRichness for q = 0, ChaoShannon for q = 1, and Chao­
+
+Simpson for q = 2 (Chao et al., 2014). We omitted trap samples with zero
+                                                                                                                                                   Plant height
+individuals from the calculation of Shannon diversity and those with
+                                                                                                                                                   Intercept                    1                            45                        113.990                       <0.0001
+fewer than two individuals from Simpson diversity, as these indices are
+                                                                                                                                                   Biotope                      2                            12                        2.564                         0.118
+undeﬁned under such circumstances.
+
+      Observed and asymptotic values of richness, Shannon diversity and
+
+Simpson diversity were then used as response variables in generalized                                                                              Plant cover
+                                                                                                                                                   Intercept                    1                            45                        0.820                         0.370
+linear mixed models (GLMMs). In GLMMs, the independent variables
+                                                                                                                                                   Biotope                      2                            12                        0.186                         0.832
+were sites (with ungrazed as reference) and month (with April as
+
+reference), with traps nested into sites as a random factor. Calculations
+
+were done using the glmmTMB R package with the model: diversity
+                                                                                                                                                   Soiltemperature
+measure ~ site*month+(1|site/trap). The r.squaredGLMM function of                                                                                  Intercept                    1                            45                        5896.791                      <0.0001
+                                                                                         2
+                                                                                                                                                   Biotope                      2                            12                        42.255                        <0.0001
+the MuMIn R package was used to calculate the r                                             explained by ﬁxed and
+
+random factors. For observed richness, we used a Poisson link, whereas a
+
+Gaussian one was assumed for the other measures of diversity. The same
+                                                                                                                                                   Soil bulk density
+GLMM approach was applied to test for differences in tenebrionid
+                                                                                                                                                   Intercept                    1                            45                        8556.572                      <0.0001
+abundance; in this case, a Poisson distribution was adopted. The R li­                                                                             Biotope                      2                            12                        2.736                         0.105
+
+brary ggplot2 was used for graphs.
+
+
+3. Results
+
+
+      The three investigated sites showed signiﬁcant differences in plant
+
+biomass and soil temperature, whereas they did not differ in plant cover
+
+(Table 1, Fig. S1). The solar park had a higher biomass than the ungrazed
+
+and grazed sites, which did not differ from each other (Table 1, Fig. S1).
+
+Average temperature was highest in the grazed site, lowest in the solar
+
+park, and intermediate in the ungrazed site. Signiﬁcant differences were
+
+found for plant height, which was higher in the solar park than in the
+
+grazed site, and for soil bulk density, which was lower in the solar park
+
+than in the grazed site (Table 1, Fig. S1).
+
+      Ten species of tenebrionids were collected (Fig. 2, Table S1). Three
+
+species (Blaps femoralis [Fischer von Waldheim, 1844], Microdera kraatzi
+
+[Reitter, 1889] and Anatolica amoenula [Reitter, 1889]) represented
+
+together 94% of the collected individuals (Fig. 2); separately, they
+
+represented 45%, 37% and 12% of the overall abundance, respectively
+                                                                                                                                               Fig. 2. Proportional abundance of tenebrionid beetle species collected in three
+(Table S1). M. kraatzi was the most abundant species in the solar park
+                                                                                                                                               biotopes in a central Asian steppe: an ungrazed site, a heavily grazed site and a
+site, representing 55% of the total abundance (Fig. 2). B. femoralis was
+                                                                                                                                               solar park.
+the most abundant species in both the ungrazed and the grazed sites,
+
+representing respectively 70% and 58% of the total abundance (Fig. 2).
+                                                                                                                                               support for the hypothesis of a substantial change in species proportions
+Overall, species composition between sites (Table S1) was very similar
+                                                                                                                                               under grazing disturbance (H1.3).
+(Dice-Sørensen                coefﬁcient             of    similarity,           DSC,        between            grazed         and
+                                                                                                                                                      The goodness-of-ﬁt statistics of the OLS regression lines indicated
+ungrazed: 0.933; DSC between ungrazed and solar park: 0.823; DSC
+                                                                                                                                               that the geometric series ﬁtted adequately all three species communities
+between grazed and solar park: 0.875) and clearly nested (spectral
+                                                                                                                                               (Table 2, Fig. 3). The slopes of the three regression lines were not
+radius: 4.694, Z-score = 2.387, P < 0.01). However, a signiﬁcant asso­
+                                                                                       2                                                       signiﬁcantly different (ANCOVA for homogeneity of slopes: F                                                                         =
+ciation between species abundance and sites (χ                                           = 279.849, df = 18, P <                                                                                                                                                        (2,18)
+
+                                                                                                                                               0.772, P = 0.477). This means that, contrary to our expectation, neither
+0.001) indicates that species have different habitat preferences, with
+                                                                                                                                               grazing (H1.4) nor solar panel installation (H2.4) changed the overall
+solar park showing an increased abundance of M. kraatzi and a reduction
+                                                                                                                                               species-abundance distribution model.
+of B. femoralis in comparison with grazed and ungrazed sites, which
+                                                                                                                                                      Tenebrionid abundance in the grazed site and in the solar park was
+supports our hypothesis (H2.3) of a reduction in the proportion of the
+                                                                                                                                               lower than that observed in the ungrazed site, although the difference
+most dominant species in the solar park. By contrast, there was no
+
+
+                                                                                                                                          4
+
+N. Tsafack et al.                                                                                                                                                                         J ou rn a l   o f   E nv i r o n me n t al Ma n a g e m e n t 320 (2022) 115791
+
+
+Table 2                                                                                                                                        effect of solar panels on overall abundance (H2.1). The observed number
+                                                                                                         2
+Regression parameters (slope and intercept), goodness of ﬁt (R                                             ), t-value (t) and                  of species was lower in the grazed site than in the ungrazed site (as
+
+probability (P) of geometric series models for the tenebrionid communities
+                                                                                                                                               expected by our hypothesis H1.2), whereas the difference between
+sampled in three biotopes in a central Asian steppe: an ungrazed (undisturbed)
+                                                                                                                                               ungrazed site and solar park was not signiﬁcant (which does not support
+site, a heavily grazed site, and a solar park. For each model, the niche pre-
+                                                                                                                                               our hypothesis of a positive effect H2.2) (Table 4, Fig. 4 b). However,
+emption parameter k is also reported. Errors refer to standard errors.
+                                                                                                                                               estimated species richness (asymptotic values of Chao1 estimator) was
+                                                                                                              2
+                        Slope                 Intercept              T                  P                  R              k
+                                                                                                                                               higher in the solar park than in the ungrazed site, as expected under our
+
+   Ungrazed             −0.322 ±              2.316 ±                −6.046             <0.001             0.856          0.524                hypothesis of a positive effect (H2.2), whereas there was no difference
+
+                        0.053                 0.269                                                                                            between the ungrazed site and the grazed site, which contrasts with our
+   Grazed               −0.361 ±              2.450 ±                −12.643            <0.0001            0.970          0.565
+                                                                                                                                               hypothesis (H1.2) (Table S2, Fig. S2 a). Thus, Chao1 varied among sites
+                        0.029                 0.128
+                                                                                                                                               in the order: solar park > grazed site ≈                                  ungrazed site, which is in partial
+   Solar                −0.291 ±              2.482 ±                −11.105            <0.0001            0.946          0.488
+                                                                                                                                               agreement with our expectations. Observed values of Shannon and
+      Park              0.026                 0.147
+                                                                                                                                               Simpson diversity were marginally signiﬁcantly higher in the solar park
+
+                                                                                                                                               than in the ungrazed site as expected under our hypothesis (H2.2) (Ta­
+
+                                                                                                                                               bles 5 and 6, Fig. 4 c, d), whereas this difference disappeared when using
+
+                                                                                                                                               estimated values (Tables S3 and S4, Fig. S2 b and c).
+
+                                                                                                                                                      Tenebrionid               abundance              varied         across        months,           decreasing             from
+
+                                                                                                                                               spring to summer (Fig. 5). However, we found a signiﬁcant interaction
+
+                                                                                                                                               between sites and months in all cases except August, which had the
+
+                                                                                                                                               lowest abundances (Table 3, Fig. 5 a). In the ungrazed site, April had a
+
+                                                                                                                                               higher abundance than May and the other months, whereas in the
+
+                                                                                                                                               grazed site and in the solar park the pattern was reversed (Fig. S3 a).
+
+                                                                                                                                               Thus, both grazing and solar panel installation reduced the activity of
+
+                                                                                                                                               tenebrionids in April. Also, it appears that differences in tenebrionid
+
+                                                                                                                                               abundances between May and June were strongly reduced by grazing,
+
+                                                                                                                                               which supports our hypothesis (H1.1). Tenebrionid richness also varied
+
+                                                                                                                                               across months, decreasing from spring to summer (Fig. 5 b). Interaction
+
+                                                                                                                                               between sites and months was signiﬁcant only for the grazed site in June
+
+                                                                                                                                               (Table 4, Fig. S3 b). Grazing strongly reduced richness in April, whereas
+
+                                                                                                                                               panel installation had a strong effect in July, which contrasts with our
+
+                                                                                                                                               hypothesis (H2.2). Shannon or Simpson diversity varied across months
+
+                                                                                                                                               without any obvious trend. Diversity was high between April and May,
+
+                                                                                                                                               then decreased in June, increased again in July, and ﬁnally dropped in
+
+Fig. 3. Rank-abundance plot of the tenebrionid beetles inhabiting three bio­                                                                   August (Fig. 5 c, d). Grazing reduced both Shannon and Simpson di­
+
+topes in a central Asian steppe: an ungrazed (undisturbed) site, a heavily grazed
+                                                                                                                                               versity         (as expected under                      our hypothesis                  H1.2),        while solar park
+site, and a solar park. Species are ranked from the most to the least abundant (x-
+                                                                                                                                               increased            these        indices         (as     expected           under         our      hypothesis             H2.2),
+axis). Species abundances are log-transformed (y-axis). Data were ﬁtted using
+                                                                                                                                               although not signiﬁcantly (Tables 5 and 6). We found that interaction
+OLS regressions.
+                                                                                                                                               between sites and month was signiﬁcant only for Simpson diversity in
+
+                                                                                                                                               June (Tables S3 and S5, Fig. S3 b, c). Results with estimated values were
+between the ungrazed site and the solar park was negligible (P = 0.05,
+                                                                                                                                               similar (Tables S3 and S4, Fig. S4 b, c, Fig. S5 b, c).
+Table 3, Fig. 4 a). This is in agreement with our hypothesis that grazing
+
+reduces abundance (H1.1), but does not support our claim of a positive
+                                                                                                                                               4. Discussion
+
+
+                                                                                                                                                      The number of tenebrionid species found in our sampling sites (7–9)
+Table 3
+                                                                                                                                               is consistent with values of species richness reported from other central
+Results of generalized linear mixed models for species abundance of tenebrio­
+                                                                                                                                               Asian areas with similar environmental conditions: 1–12 species in 16
+nids sampled from April to August in three biotopes in a central Asian steppe: an
+                                                                                                                                               sites in the Gobi desert (Mongolia) (Pfeiffer and Bayannassan, 2012);
+ungrazed (undisturbed) site (used as reference), a heavily grazed site and a solar
+                                                                                                   2                                           3–10 species in seven sites in the Altai Mountains (Mongolia) (Khur­
+park.      Variance         explained          by    ﬁxed       effects:      Marginal          R      = 0.76.         Variance
+                                                                            2
+explained by the entire model: Conditional R                                   = 0.80.                                                         elpurev and Pfeiffer, 2017); seven species in an artiﬁcial oasis in the
+
+                                                                                                                                               western Gansu Province (north-western China) (Li et al., 2016); seven
+                                             Estimate                Std. Error                Z-value                P
+                                                                                                                                               species in a near desert area (Liu et al., 2012); seven species in a sandy
+   Habitat
+                                                                                                                                               desert ecosystem in the middle reaches of the Heibe River (north-­
+   Intercept                                 2.01                    0.137                     14.691                 <0.0001
+                                                                                                                                               western China) (Liu et al., 2015); 6–8 species in two sites in the Gobi
+   Grazed                                    −1.07                   0.223                     −  4.794               <0.0001
+   Solar Park                                −0.39                   0.201                     −  1.959               0.050                    Desert (Inner Mongolia) (Niu et al., 2019). Thus, we are conﬁdent that
+
+   Month                                                                                                                                       our sampling was virtually complete and provided a clear representation
+
+   May                                       −0.44                   0.129                     −  3.430               <0.001
+                                                                                                                                               of the tenebrionid diversity of the study sites.
+   June                                      −1.35                   0.177                     −  7.596               <0.0001
+                                                                                                                                                      Tenebrionid communities of arid ecosystems are characterized by a
+   July                                      −1.30                   0.174                     −  7.464               <0.0001
+                                                                                                                                               high dominance of a few species attaining large abundance values
+   August                                    −3.09                   0.386                     −  7.998               <0.0001
+   Interaction                                                                                                                                 (Thomas, 1983; Aldryhim et al., 1992; Ayal and Merkl, 1994; Niu et al.,
+
+   Grazed × May                              1.10                    0.214                     5.119                  <0.0001
+                                                                                                                                               2019, 2020), and this situation can be also found in our study system, as
+   Grazed × June                             1.39                    0.263                     5.266                  <0.0001
+                                                                                                                                               shown by the high values of the goodness of ﬁt provided by the geo­
+   Grazed × July                             0.78                    0.286                     2.734                  <0.001
+                                                                                                                                               metric series model.
+   Grazed × August                           0.53                    0.647                     0.813                  0.420
+   Solar Park × May                          1.04                    0.177                     5.887                  <0.0001                         The observed values of the slopes of the regression lines obtained in
+
+   Solar Park × June                         0.91                    0.237                     3.837                  <0.001                   this study (from −                 0.36 to −         0.29) are consistent with those recorded for
+   Solar Park × July                         0.12                    0.267                     0.452                  0.650
+                                                                                                                                               the tenebrionid communities of two sites in the Gobi Desert (−                                                        0.36 and
+   Solar Park × August                       0.06                    0.599                     0.094                  0.930
+                                                                                                                                               −   0.24,        Niu       et     al.,      2019)          and       similar          to     those         calculated             for
+
+
+                                                                                                                                          5
+
+N. Tsafack et al.                                                                                                                                                                         J ou rn a l   o f   E nv i r o n me n t al Ma n a g e m e n t 320 (2022) 115791
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. Boxplots (median, interquartile range, range [1.5 × interquartile range from the hinges] and outliers) of tenebrionid abundance (number of individuals, a),
+richness (number of species, b), Shannon diversity (c), and Simpson diversity (d) in three biotopes in a central Asian steppe: an ungrazed (undisturbed) site, a heavily
+grazed site, and a solar park.
+Mediterranean beach-dune systems (−                                       0.29 to −         0.25; Fattorini, 2008;                             2019, 2020) and Mediterranean dune ecosystems (k = 0.4–0.5; Fattorini
+Fattorini et al., 2017). The lack of differences in the slopes of the                                                                          et al., 2016, 2017). Thus, the communities of the three study sites are
+regression lines of the three compared sites indicates that the investi­                                                                       characterized by low richness and high dominance, as already observed
+gated communities have an analogous pattern of species abundance                                                                               for tenebrionid communities of other arid ecosystems (Fattorini and
+distribution and that the resource hyperspace is divided in a similar way                                                                      Carpaneto, 2001; Fattorini, 2008; Fattorini et al., 2012, 2016, 2017; Niu
+in the three communities. Thus, contrary to our expectations (H2.4), the                                                                       et al., 2019, 2020), which suggests a similar response to harsh condi­
+impact of grazing and solar panel installation did not alter the main                                                                          tions, with no substantial effect of grazing or solar park installation on
+mechanism (pre-emption) that shapes species abundance distribution in                                                                          the basic mechanisms that regulate the species abundance distributions.
+more natural conditions (ungrazed site). The parameter k, which ex­                                                                                   Although species composition between sites was very similar, pro­
+presses the sequential, constant fraction of the total number of in­                                                                           portional species abundances varied between sites, as we expected
+dividuals in a community, ranged between 0.5 and 0.6. This indicates a                                                                         (hypotheses H1.3 and H2.3). It has been found that even close sites with
+rather sharp decline in the species niche hypervolumes, as expected for                                                                        similar tenebrionid species composition can show strong differences in
+communities where resources are divided according to the pre-emption                                                                           proportional abundances if they are environmentally different (Fattor­
+model. Overall, the observed k values are consistent with those recorded                                                                       ini, 2009). Also, even in sites with similar environmental conditions,
+for tenebrionid communities from the Gobi Desert (k = 0.6; Niu et al.,                                                                         species composition and ensemble organization, the most dominant
+                                                                                                                                          6
+
+N. Tsafack et al.                                                                                                                                                                         J ou rn a l   o f   E nv i r o n me n t al M a n a g e m e n t 320 (2022) 115791
+
+
+Table 4                                                                                                                                        Table 6
+
+Results of generalized linear mixed models for species richness of tenebrionids                                                                Results of generalized linear mixed models for Simpson diversity of tenebrionids
+
+sampled from April to August in three biotopes in a central Asian steppe: an                                                                   sampled from April to August in three biotopes in a central Asian steppe: an
+
+ungrazed (undisturbed) site (used as reference), a heavily grazed site and a solar                                                             ungrazed (undisturbed) site (used as reference), a heavily grazed site and a solar
+                                                                                                   2                                                                                                                                               2
+park.      Variance         explained          by    ﬁxed       effects:      Marginal          R      = 0.30.         Variance                park.       Variance         explained          by    ﬁxed       effects:      Marginal          R      = 0.17.         Variance
+                                                                            2                                                                                                                                               2
+explained by the entire model: Conditional R                                   = 0.30.                                                         explained by the entire model: Conditional R                                    = 0.19.
+
+                                             Estimate                Std. Error                z value                P                                                                      Estimate                Std. Error                z value               P
+
+   Habitat                                                                                                                                         Habitat
+
+   Intercept                                 0.62                    0.164                     3.742                  <0.0001                      Intercept                                 1.57                    0.137                     11.522                <0.0001
+   Grazed                                    −0.57                   0.273                     −  2.073               0.040                        Grazed                                    −0.16                   0.211                     −  0.737              0.460
+
+   Solar Park                                0.22                    0.221                     0.986                  0.320                        Solar Park                                0.37                    0.193                     1.908                 0.060
+
+   Month                                                                                                                                           Month
+   May                                       −0.11                   0.239                     −  0.478               0.630                        May                                       0.02                    0.186                     0.117                 0.910
+
+   June                                      −0.67                   0.282                     −  2.361               0.020                        June                                      −0.52                   0.186                     −  2.807              0.010
+   July                                      −0.62                   0.278                     −  2.217               0.030                        July                                      −0.29                   0.196                     −  1.498              0.130
+
+   August                                    −1.82                   0.440                     −  4.133               <0.0001                      August                                    −0.59                   0.268                     −  2.201              0.030
+   Interaction                                                                                                                                     Habitat × Month
+
+   Grazed × May                              0.60                    0.367                     1.627                  0.100                        Grazed × May                              0.19                    0.277                     0.669                 0.500
+   Grazed × June                             0.92                    0.405                     2.264                  0.020                        Grazed × June                             0.50                    0.277                     1.803                 0.070
+
+   Grazed × July                             0.57                    0.418                     1.355                  0.180                        Grazed × July                             0.17                    0.290                     0.579                 0.560
+
+   Grazed × August                           0.16                    0.701                     0.230                  0.820                        Grazed × August                           0.14                    0.424                     0.335                 0.740
+   Solar Park × May                          −0.00                   0.322                     −  0.002               0.990                        Solar Park × May                          −0.22                   0.260                     −  0.854              0.390
+
+   Solar Park × June                         0.10                    0.374                     0.257                  0.800                        Solar Park × June                         −0.19                   0.261                     −  0.736              0.460
+   Solar Park × July                         −0.32                   0.393                     −  0.822               0.410                        Solar Park × July                         −0.28                   0.283                     −  0.979              0.330
+
+   Solar Park × August                       −0.40                   0.645                     −  0.621               0.530                        Solar Park × August                       0.34                    0.446                     0.757                 0.450
+
+
+
+                                                                                                                                                      Grazing had a signiﬁcant negative effect on the observed value of
+Table 5
+                                                                                                                                               richness, but this effect disappeared using estimated values, whereas
+Results of generalized linear mixed models for Shannon diversity of tenebrionids
+                                                                                                                                               solar panel installation did not affect observed richness, but had a
+sampled from April to August in three biotopes in a central Asian steppe: an
+                                                                                                                                               marginally signiﬁcant positive effect on estimated richness. These con­
+ungrazed (undisturbed) site (used as reference), a heavily grazed site and a solar
+                                                                                                   2                                           trasting         results        between           observed           and      estimated           values         of   diversity
+park.      Variance         explained          by    ﬁxed       effects:      Marginal          R      = 0.18.         Variance
+                                                                            2                                                                  suggest          a   potential           inﬂuence            of    abundance.              It   is    possible         that,      by
+explained by the entire model: Conditional R                                   = 0.20.
+
+                                                                                                                                               reducing abundance, grazing increases species rarity, and hence the
+                                             Estimate                Std. Error                z value                P
+                                                                                                                                               probability of a species to be collected in a trap, which leads to a
+   Habitat
+                                                                                                                                               depression of species richness. As asymptotic values express the poten­
+   Intercept                                 1.66                    0.149                     11.145                 <0.0001
+                                                                                                                                               tial number of sampled species in a scenario of maximized sampling
+   Grazed                                    −0.21                   0.231                     −  0.925               0.355
+   Solar Park                                0.41                    0.210                     1.955                  0.051                    intensity (Colwell et al., 2012), they virtually remove the inﬂuence of
+
+   Month                                                                                                                                       the lower probability of catching rare species due to depressed abun­
+   May                                       0.02                    0.205                     0.106                  0.916
+                                                                                                                                               dances. This might have led to the lack of a negative effect of grazing on
+   June                                      −0.61                   0.205                     −  2.962               0.003
+                                                                                                                                               estimated values of richness. Solar panel installation had only a slight
+   July                                      −0.36                   0.216                     −  1.651               0.099
+                                                                                                                                               negative impact on abundance, and hence no effect on the average
+   August                                    −0.68                   0.295                     −  2.289               0.022
+   Habitat × Month                                                                                                                             richness. In this case, the use of estimated values might have disclosed
+
+   Grazed × May                              0.25                    0.305                     0.825                  0.409                    subtle differences in species richness that do not appear in the observed
+
+   Grazed × June                             0.60                    0.305                     1.953                  0.051
+                                                                                                                                               values.
+   Grazed × July                             0.23                    0.320                     0.704                  0.481
+                                                                                                                                                      Grazing did not affect Shannon and Simpson diversity, both using the
+   Grazed × August                           0.20                    0.467                     0.434                  0.665
+   Solar Park × May                          −0.25                   0.286                     −  0.867               0.386                    observed values and the estimated ones. Solar panel installation had a
+
+   Solar Park × June                         −0.19                   0.288                     −  0.649               0.516                    marginal signiﬁcant positive effect on observed values of Shannon and
+   Solar Park × July                         −0.34                   0.312                     −  1.082               0.279
+                                                                                                                                               Simpson diversity, whereas these effects disappeared using estimated
+   Solar Park × August                       0.29                    0.492                     0.588                  0.557
+                                                                                                                                               values. By reducing the abundances, the solar panel installation reduced
+
+                                                                                                                                               the difference in species abundance values per sample, which led to
+
+                                                                                                                                               increased values of observed Shannon and Simpson diversity. Use of
+species can be not the same (Niu et al., 2019). This is the case of the solar
+                                                                                                                                               estimated values removes the consequences of this reduction in species
+park       site,      where         M.      kraatzi        was       two       times        more         abundant,             and
+
+                                                                                                                                               abundances,                leading         to     the     disappearance                 of     the     effect       found         on
+B. femoralis four times less abundant, than in the grazed and ungrazed
+                                                                                                                                               observed values. We are not aware of other studies that highlighted
+sites. We can hypothesize that habitat alterations induced by solar
+
+                                                                                                                                               these possible problems in the use of estimated values, a subject that
+panels might have had a negative impact on B. femoralis but favoured
+                                                                                                                                               needs further investigation.
+M. kraatzi. It is interesting to note that B. femoralis is 16–22 mm long,
+
+                                                                                                                                                      An overall trend of decreasing abundance and richness from spring to
+whereas M. kraatzi is 8.5–11 mm long (Guodong and Youzhi, 1999).
+                                                                                                                                               summer reﬂects the increasing harsher conditions due to higher tem­
+Thus, a reduction in the abundance of a large consumer might have
+
+                                                                                                                                               peratures in summer months, since the activity of tenebrionids of arid
+favoured that of a smaller one. Since competition is not considered a
+                                                                                                                                               environments                 is     negatively            inﬂuenced              by      increased            temperatures
+major driver of tenebrionid community organization (Fattorini et al.,
+
+                                                                                                                                               (Dajoz, 2002; Fattorini, 2008). However, we detected differences among
+2016), further research is needed to test this hypothesis.
+                                                                                                                                               sites, with environmental alterations (grazing and solar panels) having a
+      Tenebrionid abundance was depressed by both grazing (as expected
+
+according to our hypothesis H1.1) and solar panel installation (contrary                                                                       strong negative impact on abundance in April. It is not clear why these
+
+                                                                                                                                               forms of environmental alterations reduce abundance and richness at
+to expectation H2.1), although the effect of solar panels was subtle,
+                                                                                                                                               the beginning of the activity period of the species, and it is possible that
+which indicates that grazing has a much higher detrimental effect on
+
+                                                                                                                                               different causes are involved, including tenebrionid reactions to too low
+tenebrionid abundance than solar panel installation. Results for species
+                                                                                                                                               temperature. Activity rhythms of tenebrionid of arid environments is
+richness,          Shannon           diversity          and       Simpson           diversity          are      partially         in
+
+                                                                                                                                               inhibited by too low temperatures (Dajoz, 2002; Fattorini, 2008). In
+agreement with our hypotheses of negative effects.
+
+
+                                                                                                                                          7
+
+N. Tsafack et al.                                                                                                                                                                         J ou rn a l   o f   E nv i r o n me n t al Ma n a g e m e n t 320 (2022) 115791
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. Boxplots (median, interquartile range, range [1.5 × interquartile range from the hinges] and outliers) of tenebrionid abundance (number of individuals, a),
+richness (number of species, b), Shannon diversity (c), and Simpson diversity (d) in different sampling periods in a central Asian steppe.
+April, temperatures in spoiled areas subject to intense grazing might be                                                                       the proportion of the species that was the most dominant in the other
+too low during the night, whereas in the solar park they might be low                                                                          two sites. Compared with the other two sites, the solar park was char­
+even in daytime because of shading. A more detailed investigation on                                                                           acterized by a higher plant biomass and lower temperatures. A major
+tenebrionid             response           to    daily       variation           in     temperatures               would         be            availability of resources and less harsh conditions might have a role in
+helpful.                                                                                                                                       reducing the dominance of the most abundant species, allowing other
+                                                                                                                                               species to attain higher abundances. This led to a more balanced com­
+5. Conclusions                                                                                                                                 munity structure, with higher values of diversity. Paradoxically, this
+                                                                                                                                               change seems to be obscured when asymptotic estimators are used,
+      Neither grazing nor solar park installation modiﬁed radically the                                                                        because asymptotic estimators virtually remove the inﬂuence of species
+community structure of tenebrionid beetles of the study ecosystem,                                                                             abundance               differences            in    the      probability            of    detecting            species        that
+which was characterized by a simple structure with strong dominance of                                                                         became rarer due to habitat alteration. This potential bias in the use of
+few species, also in undisturbed contexts. This is consistent with previ­                                                                      estimators needs, however, further investigation. Our study suggests
+ous ﬁndings in other central Asian arid steppes, and more in general in                                                                        that neither grazing (at least if it is not too intensive) nor solar panel
+arid environments, where tenebrionids form simple, highly dominated                                                                            installations represent an immediate threat to tenebrionid conservation
+communities.                However,             grazing           and       solar       panel        installation             had             in arid steppes. However, our study was conducted three years after the
+different effects in species abundances. Grazing negatively inﬂuenced                                                                          installation of the solar panels and was based on a single year sampling
+the overall abundance, but did not alter profoundly species proportions;                                                                       period. In order to fully understand the impact of solar power plants,
+by contrast, solar panels had a negligible effect on the average abun­                                                                         further studies should be done to investigate their inﬂuence on insect
+dance, but a more important impact on species proportions, by reducing                                                                         communities at different time laps after their installation and adopt
+                                                                                                                                          8
+
+N. Tsafack et al.                                                                                                                                                                         J ou rn a l   o f   E nv i r o n me n t al Ma n a g e m e n t 320 (2022) 115791
+
+
+long-term monitoring to test the robustness of our ﬁndings. This is                                                                            Chao, A., Gotelli, N.J., Hsieh, T.C., Sander, E.L., Ma, K.H., Colwell, R.K., et al., 2014.
+
+                                                                                                                                                      Rarefaction and extrapolation with Hill numbers: a framework for sampling and
+particularly important because the impact of grazing and solar panel
+                                                                                                                                                      estimation in species diversity studies. Ecol. Monogr. 84, 45–67.
+installation might amplify the effect of other factors such as those
+                                                                                                                                               Chao, A., Kubota, Y., Zelený, D., Chiu, C.-H., Li, C.-F., Kusumoto, B., et al., 2020.
+
+associated with the climate change. This is the ﬁrst study that investi­                                                                              Quantifying sample completeness and comparing diversities a 498 mong
+
+                                                                                                                                                      assemblages. Ecol. Res. 35, 292–314.
+gated the impact of solar panels on a group of ground dwelling insects,
+                                                                                                                                               Cheng, L., Tong, Y., Zhao, Y., Sun, Z., Wang, X., Fangzhou, M., et al., 2022. Study on the
+the tenebrionid beetles, in a type of ecosystem (arid steppes) where this
+                                                                                                                                                      relationship between richness and morphological diversity of higher taxa in the
+
+form of human exploitation is rapidly increasing. Given the simplicity of                                                                             darkling beetles (Coleoptera:Tenebrionidae). Diversity 14, 60.
+                                                                                                                                               Colwell, R.K., Chao, A., Gotelli, N.J., Lin, S.-Y., Mao, C.X., Chazdon, R.L., et al., 2012.
+collecting tenebrionid beetles by pitfall trapping, our study might be
+                                                                                                                                                      Models and estimators linking individual-based and sample-based rarefaction,
+easily replicated, adapted to other contexts or modiﬁed to test particular
+                                                                                                                                                      extrapolation and comparison of assemblages. J. Plant Ecol. 5, 3–21.
+
+hypotheses (for example, changes in the liquid used to attract/preserve                                                                        Dajoz, R., 2002. Les Col´eopt`eres Carabides et T´en´ebrionid´es. Lavoisier, Paris.
+
+                                                                                                                                               De Los Santos, A., Go´mez-Gonz´alez, L.A., Alonso, C., Arbelo, C.D., De Nicola´s, J.P., 2000.
+beetles). It would be important in the future to develop similar analyses
+                                                                                                                                                      Adaptive trends of darkling beetles (Col. Tenebrionidae) on environmental gradients
+for other groups of ground dwelling insects to corroborate the observed
+                                                                                                                                                      on the island of Tenerife (Canary Islands). J. Arid Environ. 45, 85–98.
+patterns. It would be also important to extend similar analyses in other                                                                       Dennis, P., Young, M.R., Gordon, I.J., 1998. Distribution and abundance of small insects
+
+                                                                                                                                                      and arachnids in relation to structural heterogeneity of grazed, indigenous
+types of ecosystems worldwide where                                           solar panel installations are
+                                                                                                                                                      grasslands. Ecol. Entomol. 23, 253–264.
+common.
+                                                                                                                                               Dolezal, A.G., Torres, J., O’Neal, M.E., 2021. Can solar energy fuel pollinator
+
+                                                                                                                                                      conservation? Environ. Entomol. 50, 757–761.
+
+                                                                                                                                               Fattorini, S., 2005. A simple method to ﬁt geometric series and broken stick models in
+Author contribution
+                                                                                                                                                      community ecology and island biogeography. Acta Oecol. 28, 199–205.
+
+                                                                                                                                               Fattorini, S., 2008. Ecology and conservation of tenebrionid beetles in Mediterranean
+
+      Project design: NT, YX, Xinpu W and SF; methodology: NT and SF;                                                                                 coastal areas. In: Insect Ecology and Conservation. Kerala, India, pp. 165–297.
+
+                                                                                                                                               Fattorini, S., 2009. Darkling beetle communities in two geologically contrasting biotopes:
+data collection: NT, WF, Xingyu W, YX, Xinpu W; data analysis: NT and
+                                                                                                                                                      testing biodiversity patterns by microsite comparisons. Biol. J. Linn. Soc. 98,
+SF; paper writing - original draft preparation: NT and SF; writing - re­
+                                                                                                                                                      787–793.
+
+view and editing: NT, SF, WF, Xingyu W, YX, Xinpu W; supervision: SF;                                                                          Fattorini, S., Carpaneto, G.M., 2001. Tenebrionid density in Mediotyrrhenian coastal
+
+                                                                                                                                                      dunes: habitat and temporal variations (Coleoptera, Tenebrionidae). Fragm.
+funding acquisition: NT and SF.
+                                                                                                                                                      Entomol. 33 (1), 97–118.
+
+                                                                                                                                               Fattorini, S., Santoro, R., Maurizi, E., Acosta 532, A.T.R., Di Giulio, A., 2012.
+
+                                                                                                                                                      Environmental tuning of an insect ensemble: the tenebrionid beetles inhabiting a
+
+                                                                                                                                                      Mediterranean coastal dune zonation. Comptes Rendus Biol. 335, 708–711.
+Declaration of competing interest
+                                                                                                                                               Fattorini, S., Bergamaschi, D., Mantoni, C., Acosta, T.R.A., Di Giulio, A., 2016. Niche
+
+                                                                                                                                                      partitioning in tenebrionid species (Coleoptera: Tenebrionidae) inhabiting
+      The authors declare that they have no known competing ﬁnancial                                                                                  Mediterranean coastal dunes. Eur. J. Entomol. 113, 462–468.
+
+interests or personal relationships that could have appeared to inﬂuence                                                                       Fattorini, S., Bergamaschi, D., Galassi, D., Biondi, M., Acosta, A., Giulio, A.D., 2017.
+
+                                                                                                                                                      Spatial organisation of an insect ensemble in a Mediterranean ecosystem: the
+the work reported in this paper.
+                                                                                                                                                      Tenebrionid beetles (Coleoptera: Tenebrionidae) inhabiting an Adriatic Coastal sand
+
+                                                                                                                                                      dune area. Acta Zool. Bulg. 201–208.
+
+Data availability                                                                                                                              Fuhlendorf, S.D., Harrell Wade, C., Engle David, M., Hamilton Robert, G., Davis Craig, A.,
+
+                                                                                                                                                      Leslie David, M., 2006. Should heterogeneity be the basis for conservation?
+                                                                                                                                                      Grassland bird response to ﬁre and grazing. Ecol. Appl. 16, 1706–1716.
+      Data will be made available on request.                                                                                                  Giller, P.S., 1984. Community Structure and the Niche. Chapman and Hall.
+
+                                                                                                                                               Graham, M., Ates, S., Melathopoulos, A.P., Moldenke, A.R., DeBano, S.J., Best, L.R.,
+
+                                                                                                                                                      et al., 2021. Partial shading by solar panels delays bloom, increases ﬂoral abundance
+Acknowledgements
+                                                                                                                                                      during the late-season for pollinators in a dryland, agrivoltaic ecosystem. Sci. Rep.
+
+                                                                                                                                                      11, 7452.
+
+                                                                                                                                               Guodong, R., Youzhi, Y., 1999. Tenebrionidae from the Arid and Semi-arid Region of
+      We thank Professor Ming Xin and Professor Long Jia for their help
+                                                                                                                                                      China. HebeiUniversity Press, Baoding, China.
+during species identiﬁcation; Professor Linda Perking and Professor                                                                                                                          ´
+                                                                                                                                               Horva´th, G., Blaho´, M., Egri, A., Kriska, G., Seres, I., Robertson, B., 2010. Reducing the
+
+Zalucky Meron for their helpful comments on the early phase of the                                                                                    maladaptive attractiveness of solar panels to polarotactic insects. Conserv. Biol. 24,
+
+                                                                                                                                                      1644–1653.
+project; Sebastien Lhoumeau for his help with satellites images. We
+                                                                                                                                               Kang, L., Han, X., Zhang, Z., Sun, O.J., 2007. Grassland ecosystems in China: review of
+thank two anonymous reviewers for their comments on a previous
+                                                                                                                                                      current knowledge and research advancement. Phil. Trans. R. Soc. B Biol. Sci. 362,
+version of this paper. This research was supported by a grant of China                                                                                997–1008.
+
+                                                                                                                                               Khurelpurev, O., Pfeiffer, M., 2017. Coleoptera in the Altai Mountains (Mongolia):
+Postdoctoral Science Foundation (2018M643770) to NT. SF beneﬁtted
+                                                                                                                                                      species richness and community patterns along an ecological gradient. J. Asia Pac.
+from the following grants: Fondo per il ﬁnanziamento delle attivita` base
+                                                                                                                                                      Biodivers. 10, 362–370.
+di ricerca 2017 (FFABR 2017, by the Ministry of Education, University                                                                          Li, J., Yang, X., Jin, Y., Yang, Z., Huang, W., Zhao, L., et al., 2013. Monitoring and
+
+and      Research,            Italy)       with       the      project        “Ecologia            e    Biogeograﬁa               di                  analysis of grassland desertiﬁcation dynamics using Landsat images in Ningxia,
+
+                                                                                                                                                      China. Rem. Sens. Environ. 138, 19–26.
+Coleotteri Tenebrionidi nella Regione Paleartica”, and FFO 2022 (by
+                                                                                                                                               Li, F.-R., Liu, J.-L., Sun, T.-S., Ma, L.-F., Liu, L.-L., Yang, K., 2016. Impact of established
+Department of Life, Health and Environmental Sciences, University of
+                                                                                                                                                      shrub shelterbelts around oases on the diversity of ground beetles in arid ecosystems
+
+L’Aquila) for the project “Struttura di comunit`a biotiche in ambienti di                                                                             of Northwestern China. Insect Conserv. Divers. 9, 135–148.
+
+                                                                                                                                               Liu, J.-L., Li, F.-R., Liu, C.-A., Liu, Q.-J., 2012. Inﬂuences of shrub vegetation on
+bassa ed alta quota soggetti a fattori di elevato stress termico e idrico”.
+                                                                                                                                                      distribution and diversity of a ground beetle community in a Gobi desert ecosystem.
+
+                                                                                                                                                      Biodivers. Conserv. 21, 2601–2619.
+
+                                                                                                                                               Liu, J.-L., Zhao, W., Li, F.-R., 2015. Effects of shrub presence and shrub species on ground
+Appendix A. Supplementary data
+                                                                                                                                                      beetle assemblages (Carabidae, Curculionidae and Tenebrionidae) in a sandy desert,
+
+                                                                                                                                                      northwestern China. J. Arid Land 7, 110–121.
+      Supplementary data to this article can be found online at https://doi.                                                                   Lü, Y., Fu, B., Wei, W., Yu, X., Sun, R., 2011. Major ecosystems in China: dynamics and
+
+                                                                                                                                                      challenges for sustainable management. Environ. Manag. 48, 13–27.
+org/10.1016/j.jenvman.2022.115791.
+                                                                                                                                               McGill, B.J., Etienne, R.S., Gray, J.S., Alonso, D., Anderson, M.J., Benecha, H.K., et al.,
+
+                                                                                                                                                      2007. Species abundance distributions: moving beyond single prediction theories to
+
+References                                                                                                                                            integration within an ecological framework. Ecol. Lett. 10, 995–1015.
+                                                                                                                                               Nan, L., Dong, Z., Xiao, W., Li, C., Xiao, N., Song, S., et al., 2018. A ﬁeld investigation of
+
+                                                                                                                                                      wind erosion in the farming–pastoral ecotone of northern China using a portable
+Aldryhim, Y.N., Mills, C.W., Aldawood, A.S., 1992. Ecological distribution and
+                                                                                                                                                      wind tunnel: a case study in Yanchi County. J. Arid Land 10, 27–38.
+      seasonality of darkling beetles (Coleoptera: Tenebrionidae) in the central region of
+                                                                                                                                               Niu, Y., Ren, G., Lin, G., Di Biase, L., Fattorini, S., 2019. Community structure of
+      Saudi Arabia. J. Arid Environ. 23, 415–422.
+                                                                                                                                                      tenebrionidbeetles in the Ulan Buh Desert (Inner Mongolia, China) (Coleoptera:
+Ayal, Y., Merkl, O., 1994. Spatial and temporal distribution of tenebrionid species
+                                                                                                                                                      Tenebrionidae). Fragm. Entomol. 51, 193–200.
+      (Coleoptera) in the Negev Highlands, Israel. J. Arid Environ. 27, 347–361.
+                                                                                                                                               Niu, Y., Ren, G., Lin, G., Di Biase, L., Fattorini, S., 2020. Fine-scale vegetation
+Bouchard, P., Bousquet, Y., Aalbu, R.L., Alonso-Zarazaga, M.A., Merkl, O., Davies, A.E.,
+                                                                                                                                                      characteristics drive insect ensemble structures in a desert ecosystem: the
+      2021. Of genus-group names in the family Tenebrionidae (Insecta, Coleoptera).
+
+      ZooKeys 1050, 1–633.
+
+
+                                                                                                                                          9
+
+N. Tsafack et al.                                                                                                                                                                         J ou rn a l   o f   E nv i r o n me n t al Ma n a g e m e n t 320 (2022) 115791
+      tenebrionid beetles (Coleoptera: Tenebrionidae) inhabiting the Ulan Buh Desert                                                           Tsafack, N., Rebaudo, F., Wang, H., Nagy, D.D., Xie, Y., Wang, 600, X., et al., 2019.
+      (Inner Mongolia, China). Insects 11, 410.                                                                                                       Carabid community structure in northern China grassland ecosystems: effects of
+Pfeiffer, M., Bayannassan, E., 2012. Diversity and community pattern of darkling beetles                                                              local habitat on species richness, species composition and functional diversity. PeerJ
+      (Coleoptera: Tenebrionidae) along an ecological gradient in arid Mongolia. In:                                                                  6, e6197.
+      Erforschung Biologischer Ressourcen der Mongolei/Exploration into the Biological                                                         Ulrich, W., Gotelli, N.J., 2012. A null model algorithm for presence–absence matrices
+      Resources of Mongolia. Halle & Wittenberg, Germany, pp. 251–266.                                                                                based on proportional resampling. Ecol. Model. 244, 20–27.
+R Core Team, 2021. R: A Language and Environment for Statistical Computing. R                                                                  Warton, D.I., Hui, F.K.C., 2011. The arcsine is asinine: the analysis of proportions in
+      Foundation for Statistical Computing, Vienna, Austria.                                                                                          ecology. Ecology 92, 3–10.
+Ren, J.Z., Hu, Z.Z., Zhao, J., Zhang, D.G., Hou, F.J., Lin, H.L., et al., 2008. A grassland                                                    Weiss, N., Zucchi, H., Hochkirch, A., 2013. The effects of grassland management and
+      classiﬁcation system and its application in China. Rangel. J. 30, 199–209.                                                                      aspect on Orthoptera diversity and abundance: site conditions are as important as
+Ruan, H., Wu, X., Wang, S., Yang, J., Zhu, H., Guo, Q., et al., 2021. The responses of                                                                management. Biodivers. Conserv. 22, 2167–2178.
+      different insectguilds to grassland degradation in northeastern China. Ecol. Indicat.                                                    Wesche, K., Treiber, J., 2012. Abiotic and biotic determinants of steppe productivity and
+      133, 108369.                                                                                                                                    performance – a view from central Asia. In: Werger M.J.A., Staalduinen M.A van
+Schalk, Louw, 1987. Species Composition and Seasonality of Pitfall Trapped Coleoptera                                                                 (Eds.), Eurasian Steppes. Ecological Problems and Livelihoods in a Changing World.
+      at a Site in the Central Orange Free State, South 566 Africa, vol. 5. Navorsinge van                                                            Springer Netherlands, Dordrecht, pp. 3–43.
+      die Nasionale Museum : Researches of the National Museum.                                                                                Zhou, L., Wang, Y., Yang, G., 2018. Study on the timely adjustment of the grazing
+Staniczenko, P., Kopp, J., Allesina, S., 2013. The ghost of nestedness in ecological                                                                  prohibition policy: ban or lift? Empirical research from local government managers.
+      networks. Nat. Commun. 4, 1391.                                                                                                                 Sustainability 10, 616–4852.
+Strona, G., Galli, P., Seveso, D., Montano, S., Fattorini, S., 2014. Nestedness for Dummies                                                    Zhu, H., Qu, Y., Zhang, D., Li, J., Wen, M., Wang, D., et al., 2017. Impacts of grazing
+      (NeD): a user friendly web interface for exploratory nestedness analysis. J. Stat.                                                              intensity and precipitation on a grasshopper assemblage (Orthoptera: Acrididae) in a
+      Software 59. Code Snippet 3.                                                                                                                    meadow steppe. Ecol. Entomol. 42, 458–468.
+Sun, H.-L., 2005. Ecosystems of China. Science Press, Beijing, China.                                                                          Zhu, H., Nkurunziza, V., Wang, J., Guo, Q., Ruan, H., Wang, D., 2020. Effects of large
+Thomas Jr., D.B., 1983. Tenebrionid beetle diversity and habitat complexity in the                                                                    herbivore grazing on grasshopper behaviour and abundance in a meadow steppe.
+      Eastern Mojave desert. Coleopt. Bull. 37, 135–147.                                                                                              Ecol. Entomol. 619 45, 1357–1366.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                         10
+
