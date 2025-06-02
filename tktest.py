@@ -196,7 +196,7 @@ class DocumentProcessor:
         ris_file_label.grid(row=0, column=0, padx=5, pady=5)
         self.ris_file_entry = tk.Entry(root, width=50)
         self.ris_file_entry.grid(row=0, column=1, padx=5, pady=5)
-        self.ris_file_entry.insert("0","/Users/toddgardiner/PAZSAGE/PAZSAGE/Agrivoltaics_RIS_open.ris")
+        self.ris_file_entry.insert("0",os.path.join(os.getcwd(),"Agrivoltaics_RIS_open.ris"))
         #self.ris_file_entry.insert("0", "/path/to/backupfile.ris")
 
         # Document Folder
@@ -204,7 +204,7 @@ class DocumentProcessor:
         doc_folder_label.grid(row=1, column=0, padx=5, pady=5)
         self.doc_folder_entry = tk.Entry(root, width=50)
         self.doc_folder_entry.grid(row=1, column=1, padx=5, pady=5)
-        self.doc_folder_entry.insert("0","/Users/toddgardiner/PAZSAGE/PAZSAGE/")
+        self.doc_folder_entry.insert("0",os.getcwd())
         #self.doc_folder_entry.insert("0", "/path/to/files/folder")
 
         # Output Folder
@@ -212,7 +212,7 @@ class DocumentProcessor:
         out_folder_label.grid(row=2, column=0, padx=5, pady=5)
         self.out_folder_entry = tk.Entry(root, width=50)
         self.out_folder_entry.grid(row=2, column=1, padx=5, pady=5)
-        self.out_folder_entry.insert("0","/Users/toddgardiner/PAZSAGE/output/")
+        self.out_folder_entry.insert("0",os.path.join(os.getcwd(),"output/"))
         #self.out_folder_entry.insert("0", "/path/to/output/folder")
 
         # API Key
@@ -220,7 +220,7 @@ class DocumentProcessor:
         api_key_label.grid(row=3, column=0, padx=5, pady=5)
         self.api_key_entry = tk.Entry(root, width=50, show="*")
         self.api_key_entry.grid(row=3, column=1, padx=5, pady=5)
-        self.api_key_entry.insert("0","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")
+        self.api_key_entry.insert("0","API_KEY_GOES_HERE")
 
         # Model
         model_label = tk.Label(root, text="Model:")
