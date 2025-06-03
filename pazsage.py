@@ -229,7 +229,7 @@ class DocumentProcessor:
         api_key_label.grid(row=3, column=0, padx=5, pady=5)
         self.api_key_entry = tk.Entry(root, width=50, show="*")
         self.api_key_entry.grid(row=3, column=1, padx=5, pady=5)
-        self.api_key_entry.insert("0","API_KEY_GOES_HERE")
+        # self.api_key_entry.insert("0","API_KEY_GOES_HERE")
 
         # Model
         model_label = tk.Label(root, text="Model:")
