@@ -27,13 +27,17 @@ This repo includes a .ris file and 3/4 of the associated papers as a demo mode. 
 - pip install -r 'requirements.txt'
 - deactivate
 
-### Run the Program (open command prompt, and cd to the program folder)
+### How to Run the Program 
+open a command prompt, and then cd (change directory) to the program folder..
 - source .venv/bin/activate
 - python pazsage.py
-- *** GUI Will Open. Complete this on the GUI *** --> Add ris file location, journal files location, your key, and start the process.
-- *** You can watch the progress on the command line ***
-- *** When complete, close the GUI or hit "CNTL + C" on the command line ***
-- *** close the command prompt or type 'deactivate' to disable the venv ***
+*** The GUI Will Open. Complete this on the GUI *** --> Add ris file location, journal files location, your key, and start the process.
+*** You can watch the progress on the command line ***
+*** When program activity is complete, close the GUI or hit "CNTL + C" on the command line ***
+*** close the command prompt or type 'deactivate' to disable the venv ***
+
+### Uninstallation Instructions:
+In finder, find the PAZSAGE folder and delete it. This will delete the venv, all the downloaded libraries, and the program.
 
 ### BONUS:
 By installing this repo, you have already installed all the necessary libraries to generate audio on your computer. With the venv active (source .venv/bin/activate), you can also run kokorotest.py and get audio wav files. 
