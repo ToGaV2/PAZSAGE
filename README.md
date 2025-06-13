@@ -32,12 +32,40 @@ open a command prompt, and then cd (change directory) to the program folder..
 - source .venv/bin/activate
 - python pazsage.py
 *** The GUI Will Open. Complete this on the GUI *** --> Add ris file location, journal files location, your key, and start the process.
+*** Note on Journal Files Location:*** The paths to your journal articles (PDF, DOCX, HTML) inside the RIS file (typically in `L1` or `L2` tags) should be relative to the "Document Folder" you set in the GUI. For example, if your "Document Folder" is `C:\Users\YourName\Documents\Papers` and your RIS file lists a paper as `my_research.pdf`, the program will look for `C:\Users\YourName\Documents\Papers\my_research.pdf`. If your files are in subdirectories, include that in the RIS path, e.g., `2024\my_research.pdf`.
 *** You can watch the progress on the command line ***
 *** When program activity is complete, close the GUI or hit "CNTL + C" on the command line ***
 *** close the command prompt or type 'deactivate' to disable the venv ***
 
 ### Uninstallation Instructions:
 In finder, find the PAZSAGE folder and delete it. This will delete the venv, all the downloaded libraries, and the program.
+
+### Troubleshooting
+
+-   **Invalid API Key:**
+    -   The program will display an error in the GUI if the OpenRouter.ai API key is invalid or has insufficient credits.
+    -   Ensure your API key is correctly copied into the GUI field.
+    -   Check your OpenRouter.ai account for available credits.
+    -   Error messages like "OpenRouter API error: 401..." usually indicate an authentication problem.
+
+-   **RIS File Issues:**
+    -   **File Not Found:** If the specified RIS file path in the GUI is incorrect, the program will show an error. Double-check the path.
+    -   **Format Problems:** The program expects a standard RIS format. Errors like "No items found in RIS file" or issues during processing might indicate an incompatible RIS file. The program attempts to fix common line ending issues, but complex or very non-standard files might cause problems. See console output for more detailed error messages.
+    -   **Empty File:** An error will be shown if the RIS file is empty.
+
+-   **Document File Not Found (PDF, DOCX, HTML):**
+    -   The program looks for document files (e.g., PDFs) based on paths specified in the `L1` or `L2` tags within the RIS file. These paths are expected to be relative to the "Document Folder" you specify in the GUI.
+    -   Example: If "Document Folder" is `/Users/me/papers` and an RIS entry has `L1  - my_article.pdf`, the program looks for `/Users/me/papers/my_article.pdf`.
+    -   If a file is not found, its processing will be skipped, and a message will be printed to the console. The GUI will show progress, but the summary/audio for that specific item will be missing.
+
+-   **Python Environment & Dependencies:**
+    -   Ensure you are using Python 3.12 as recommended.
+    -   If you encounter errors like "ModuleNotFound" on startup, make sure you have activated the virtual environment (`source .venv/bin/activate`) and installed all requirements (`pip install -r requirements.txt`).
+    -   Errors during audio generation might indicate issues with the Kokoro library or its dependencies. Check console logs.
+
+-   **Output Folder/File Issues:**
+    -   The program creates `media`, `summaries`, `audio`, `staging` subfolders in its working directory and an `output` folder (by default) for the final zip files.
+    -   Errors like "Error with output folders" in the GUI (with more details in the console) can indicate permission problems or that files/folders are locked by another program. Ensure the application has write permissions to its directory and the chosen output directory.
 
 ### BONUS:
 By installing this repo, you have already installed all the necessary libraries to generate audio on your computer. With the venv active (source .venv/bin/activate), you can also run kokorotest.py and get audio wav files. 
