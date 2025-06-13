@@ -28,14 +28,14 @@ This repo includes a .ris file and 3/4 of the associated papers as a demo mode. 
 - deactivate
 
 ### How to Run the Program 
-open a command prompt, and then cd (change directory) to the program folder..
-- source .venv/bin/activate
-- python pazsage.py
-*** The GUI Will Open. Complete this on the GUI *** --> Add ris file location, journal files location, your key, and start the process.
-*** Note on Journal Files Location:*** The paths to your journal articles (PDF, DOCX, HTML) inside the RIS file (typically in `L1` or `L2` tags) should be relative to the "Document Folder" you set in the GUI. For example, if your "Document Folder" is `C:\Users\YourName\Documents\Papers` and your RIS file lists a paper as `my_research.pdf`, the program will look for `C:\Users\YourName\Documents\Papers\my_research.pdf`. If your files are in subdirectories, include that in the RIS path, e.g., `2024\my_research.pdf`.
-*** You can watch the progress on the command line ***
-*** When program activity is complete, close the GUI or hit "CNTL + C" on the command line ***
-*** close the command prompt or type 'deactivate' to disable the venv ***
+1. open a command prompt, and then cd (change directory) into the program folder..
+2. start the virtual environment with  **source .venv/bin/activate**
+3. run the program with the following command: **python pazsage.py**
+4. *** The GUI Will Open. Complete this on the GUI *** --> Add ris file location, journal files location, your API key, and start the process.
+5. *** Note on Journal Files Location:*** The paths to your journal articles (PDF, DOCX, HTML) inside the RIS file (typically in `L1` or `L2` tags) should be relative to the "Document Folder" you set in the GUI. For example, if your "Document Folder" is `C:\Users\YourName\Documents\Papers` and your RIS file lists a paper as `my_research.pdf`, the program will look for `C:\Users\YourName\Documents\Papers\my_research.pdf`. If your files are in subdirectories, include that in the RIS path, e.g., `2024\my_research.pdf`.
+6. *** You can watch the progress on the command line ***
+7. *** When program activity is complete, close the GUI or hit "CNTL + C" on the command line ***
+8. *** close the command prompt or type 'deactivate' to disable the venv ***
 
 ### Uninstallation Instructions:
 In finder, find the PAZSAGE folder and delete it. This will delete the venv, all the downloaded libraries, and the program.
