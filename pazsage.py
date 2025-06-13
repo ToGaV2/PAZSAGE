@@ -526,7 +526,7 @@ class DocumentProcessor:
                     del fullaudio
 
                     # write the file
-                    filename = str(j)[:-4]
+                    filename = str(j_file_name)[:-4]
                     filename = filename + ".wav"
                     fileloc = os.path.join(os.getcwd(),"audio",filename)
                     print(f"Writing {fileloc}")
@@ -542,6 +542,9 @@ class DocumentProcessor:
             # # Pop zip locations
             output_zip1 = os.path.join(out_folder2,'audio.zip')
             output_zip2 = os.path.join(out_folder2, 'summaries.zip')
+
+            # Ensure output directory exists
+            os.makedirs(out_folder2, exist_ok=True)
 
             zip_folder(os.path.join(os.getcwd(),'audio'), output_zip1)
             zip_folder(os.path.join(os.getcwd(), 'summaries'), output_zip2)
